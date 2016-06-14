@@ -1,0 +1,745 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dec",
+				"decorator"
+			],
+			[
+				"Pass",
+				"PasswordField"
+			],
+			[
+				"password",
+				"password_hash"
+			],
+			[
+				"cont",
+				"container-fluid"
+			],
+			[
+				"authent",
+				"authenticated"
+			],
+			[
+				"auth",
+				"authentication"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"acc",
+				"access_secret"
+			],
+			[
+				"ac",
+				"access_token"
+			],
+			[
+				"consu",
+				"consumer_secret"
+			],
+			[
+				"consum",
+				"consumer_key"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"mem",
+				"members"
+			],
+			[
+				"payment",
+				"payment_method_code"
+			],
+			[
+				"pay",
+				"payment_method_code"
+			],
+			[
+				"membership_",
+				"membership_types"
+			],
+			[
+				"membership_typ",
+				"membership_type_code"
+			],
+			[
+				"golf",
+				"golf_clubs"
+			],
+			[
+				"error",
+				"errorhandler"
+			],
+			[
+				"Passw",
+				"password"
+			],
+			[
+				"DATAB",
+				"DATABASE_PATH"
+			],
+			[
+				"task",
+				"task_id"
+			],
+			[
+				"register",
+				"register_user"
+			],
+			[
+				"alert_",
+				"alert_blueprint"
+			],
+			[
+				"alert",
+				"alert_blueprint"
+			],
+			[
+				"user_",
+				"user_blueprint"
+			],
+			[
+				"boot",
+				"bootstrap"
+			],
+			[
+				"boo",
+				"bootstrapcdn"
+			],
+			[
+				"get_b",
+				"get_by_email"
+			],
+			[
+				"user",
+				"userFeedback"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"had",
+				"hadoukenSound"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"backg",
+				"background-origin"
+			],
+			[
+				"descr",
+				"description"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"price",
+				"price_without_symbol"
+			],
+			[
+				"Emb",
+				"EmbeddedDocument"
+			],
+			[
+				"distance",
+				"distance_between_points"
+			],
+			[
+				"initi",
+				"initialize_game"
+			],
+			[
+				"val",
+				"validate_on_submit"
+			],
+			[
+				"Submi",
+				"SubmitField"
+			],
+			[
+				"hid",
+				"hideturtle"
+			],
+			[
+				"drawing",
+				"drawingComplete"
+			],
+			[
+				"symb",
+				"symbolString"
+			],
+			[
+				"move",
+				"moveResult"
+			],
+			[
+				"secret",
+				"secret_num"
+			],
+			[
+				"MY",
+				"MYSQL_DATABASE_DB"
+			],
+			[
+				"incre",
+				"increment_time"
+			],
+			[
+				"dista",
+				"distance_between_points"
+			],
+			[
+				"sort",
+				"sort_by_length_random"
+			],
+			[
+				"has_",
+				"has_duplicates2"
+			],
+			[
+				"make_words",
+				"make_word_list2"
+			],
+			[
+				"make_",
+				"make_word_list1"
+			],
+			[
+				"build",
+				"build_list2"
+			],
+			[
+				"searc",
+				"search_word"
+			],
+			[
+				"sear",
+				"search_word"
+			],
+			[
+				"words",
+				"words_in_list"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"cumulative",
+				"cumulative_sum"
+			],
+			[
+				"capitalize",
+				"capitalize_all"
+			],
+			[
+				"se",
+				"secretWord"
+			],
+			[
+				"cor",
+				"correctLetters"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "hello_world/views.py",
+			"settings":
+			{
+				"buffer_size": 190,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hello_world/urls.py",
+			"settings":
+			{
+				"buffer_size": 122,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hello_world_project/urls.py",
+			"settings":
+			{
+				"buffer_size": 887,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"Snippet:",
+				"Snippet: html"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"INstall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alexsimonian/DjangoProjects/django-quick-start/hello_world_project/hello_world_project/settings.py",
+		"/Users/alexsimonian/FlaskProjects/homepage/templates/_base.html",
+		"/Users/alexsimonian/FlaskProjects/homepage/app.py",
+		"/Users/alexsimonian/FlaskProjects/homepage/templates/allison.txt",
+		"/Users/alexsimonian/FlaskProjects/homepage/templates/index.html",
+		"/Users/alexsimonian/learn-flasky/app/api_1_0/users.py",
+		"/Users/alexsimonian/learn-flasky/app/api_1_0/posts.py",
+		"/Users/alexsimonian/learn-flasky/app/api_1_0/errors.py",
+		"/Users/alexsimonian/learn-flasky/app/api_1_0/decorators.py",
+		"/Users/alexsimonian/learn-flasky/app/api_1_0/comments.py",
+		"/Users/alexsimonian/learn-flasky/app/api_1_0/__init__.py",
+		"/Users/alexsimonian/learn-flasky/app/api_1_0/authentication.py",
+		"/Users/alexsimonian/learn-flasky/app/main/errors.py",
+		"/Users/alexsimonian/learn-flasky/app/templates/error_page.html",
+		"/Users/alexsimonian/learn-flasky/app/models.py",
+		"/Users/alexsimonian/learn-flasky/app/exceptions.py",
+		"/Users/alexsimonian/learn-flasky/app/__init__.py",
+		"/Users/alexsimonian/learn-flasky/notes/chapter_14.md",
+		"/Users/alexsimonian/learn-flasky/tests/test_user_model.py",
+		"/Users/alexsimonian/learn-flasky/notes/chapter_13.md",
+		"/Users/alexsimonian/learn-flasky/app/main/views.py",
+		"/Users/alexsimonian/learn-flasky/app/templates/_comments.html",
+		"/Users/alexsimonian/learn-flasky/app/templates/base.html",
+		"/Users/alexsimonian/learn-flasky/app/templates/moderate.html",
+		"/Users/alexsimonian/learn-flasky/app/templates/user.html",
+		"/Users/alexsimonian/learn-flasky/app/templates/post.html",
+		"/Users/alexsimonian/learn-flasky/app/templates/_posts.html",
+		"/Users/alexsimonian/learn-flasky/app/templates/_macros.html",
+		"/Users/alexsimonian/learn-flasky/app/main/forms.py",
+		"/Users/alexsimonian/learn-flasky/app/static/styles.css",
+		"/Users/alexsimonian/learn-flasky/manage.py",
+		"/Users/alexsimonian/learn-flasky/config.py",
+		"/Users/alexsimonian/learn-flasky/notes/chapter_12.md",
+		"/Users/alexsimonian/learn-flasky/static/styles.css",
+		"/Users/alexsimonian/learn-flasky/app/templates/index.html",
+		"/Users/alexsimonian/learn-flasky/app/templates/followers.html",
+		"/Users/alexsimonian/learn-flasky/notes/chapter_11.md",
+		"/Users/alexsimonian/learn-flasky/app/templates/edit_post.html",
+		"/Users/alexsimonian/learn-flasky/app/templates/edit_profile.html",
+		"/Users/alexsimonian/learn-flasky/app/auth/__init__.py",
+		"/Users/alexsimonian/learn-flasky/app/auth/views.py",
+		"/Users/alexsimonian/learn-flasky/app/auth/forms.py",
+		"/Users/alexsimonian/learn-flasky/app/main/__init__.py",
+		"/Users/alexsimonian/learn-flasky/app/decorators.py",
+		"/Users/alexsimonian/learn-flasky/app/email.py",
+		"/Users/alexsimonian/learn-flasky/notes/chapter_10.md",
+		"/Users/alexsimonian/learn-flasky/app/templates/auth/change_email.html",
+		"/Users/alexsimonian/learn-flasky/app/templates/auth/email/change_email.html",
+		"/Users/alexsimonian/learn-flasky/notes/chapter_9.md",
+		"/Users/alexsimonian/learn-flasky/app/templates/403.html",
+		"/Users/alexsimonian/learn-flasky/app/decorator.py",
+		"/Users/alexsimonian/learn-flasky/notes/chapter_8.md",
+		"/Users/alexsimonian/learn-flasky/app/templates/auth/email/change_email.txt",
+		"/Users/alexsimonian/Library/Application Support/Sublime Text 2/Packages/User/SublimeServer.sublime-settings",
+		"/Users/alexsimonian/learn-flasky/app/templates/auth/login.html",
+		"/Users/alexsimonian/learn-flasky/app/templates/auth/email/reset_password.txt",
+		"/Users/alexsimonian/learn-flasky/app/templates/auth/email/reset_password.html",
+		"/Users/alexsimonian/learn-flasky/app/templates/auth/reset_password.html",
+		"/Users/alexsimonian/learn-flasky/app/templates/auth/change_password.html",
+		"/Users/alexsimonian/learn-flasky/app/templates/auth/email/confirm.html",
+		"/Users/alexsimonian/learn-flasky/app/templates/auth/email/confirm.txt",
+		"/Users/alexsimonian/learn-flasky/app/templates/auth/unconfirmed.html",
+		"/Users/alexsimonian/learn-flasky/app/templates/auth/register.html",
+		"/Users/alexsimonian/learn-flasky/app/views.py",
+		"/Users/alexsimonian/learn-flasky/tests/test_basics.py",
+		"/Users/alexsimonian/learn-flasky/notes/chapter_7.md",
+		"/Users/alexsimonian/learn-flasky/tests/__init__.py",
+		"/Users/alexsimonian/learn-flasky/hello.py",
+		"/Users/alexsimonian/learn-flasky/manager.py",
+		"/Users/alexsimonian/learn-flasky/templates/base.html",
+		"/Users/alexsimonian/learn-flasky/notes/chapter_6.md",
+		"/Users/alexsimonian/learn-flasky/templates/index.html",
+		"/Users/alexsimonian/learn-flasky/templates/mail/new_user.html",
+		"/Users/alexsimonian/learn-flasky/templates/mail/new_user.txt",
+		"/Users/alexsimonian/learn-flasky/notes/chapter_5.md",
+		"/Users/alexsimonian/learn-flasky/notes/chapter_4.md",
+		"/Users/alexsimonian/learn-flasky/notes/chapter_3.md",
+		"/Users/alexsimonian/learn-flasky/templates/user.html",
+		"/Users/alexsimonian/learn-flasky/base.html",
+		"/Users/alexsimonian/learn-flasky/templates/500.html",
+		"/Users/alexsimonian/learn-flasky/templates/404.html",
+		"/Users/alexsimonian/learn-flasky/notes/chapter_2.md",
+		"/Users/alexsimonian/learn-flasky/chapter_1.md",
+		"/Users/alexsimonian/FlaskProjects/flasky/app/main/views.py",
+		"/Users/alexsimonian/FlaskProjects/flasky/app/models.py",
+		"/Users/alexsimonian/FlaskProjects/flasky/app/main/forms.py",
+		"/Users/alexsimonian/FlaskProjects/flasky/app/auth/forms.py",
+		"/Users/alexsimonian/FlaskProjects/flasky/app/auth/views.py",
+		"/Users/alexsimonian/FlaskProjects/flasky/app/auth/__init__.py",
+		"/Users/alexsimonian/FlaskProjects/flasky/app/templates/edit_profile.html",
+		"/Users/alexsimonian/FlaskProjects/flasky/app/templates/user.html",
+		"/Users/alexsimonian/FlaskProjects/flasky/app/templates/index.html",
+		"/Users/alexsimonian/FlaskProjects/flasky/app/templates/base.html",
+		"/Users/alexsimonian/FlaskProjects/flasky/app/__init__.py",
+		"/Users/alexsimonian/FlaskProjects/flasky/manage.py",
+		"/Users/alexsimonian/FlaskProjects/flasky/config.py",
+		"/Users/alexsimonian/FlaskProjects/flasky/app/templates/auth/login.html",
+		"/Users/alexsimonian/FlaskProjects/flasky/app/email.py",
+		"/Users/alexsimonian/FlaskProjects/Allison/app.py",
+		"/Users/alexsimonian/FlaskProjects/Allison/templates/mail/new_user.html",
+		"/Users/alexsimonian/FlaskProjects/Allison/templates/index.html",
+		"/Users/alexsimonian/FlaskProjects/flasky/hello.py",
+		"/Users/alexsimonian/FlaskProjects/Allison/templates/_base.html",
+		"/Users/alexsimonian/Desktop/index.html",
+		"/Users/alexsimonian/FlaskProjects/Allison/static/script.js",
+		"/Users/alexsimonian/FlaskProjects/Allison/templates/mail/new_user.txt",
+		"/Users/alexsimonian/FlaskProjects/Allison/templates/500.html",
+		"/Users/alexsimonian/FlaskProjects/Allison/templates/404.html",
+		"/Users/alexsimonian/FlaskProjects/flasky/static/favicon.ico",
+		"/Users/alexsimonian/FlaskProjects/flasky/templates/index.html",
+		"/Users/alexsimonian/FlaskProjects/flasky/templates/base.html",
+		"/Users/alexsimonian/FlaskProjects/flasky/templates/base2.html",
+		"/Users/alexsimonian/FlaskProjects/flasky/templates/404.html",
+		"/Users/alexsimonian/FlaskProjects/flasky/templates/user.html",
+		"/Users/alexsimonian/Desktop/Allison/index.html",
+		"/Users/alexsimonian/FlaskProjects/flasky/hello1.py",
+		"/Users/alexsimonian/FlaskProjects/flasky/data-dev.sqlite",
+		"/Users/alexsimonian/FlaskProjects/oreilly-intro-to-flask-video/6a/login.py",
+		"/Users/alexsimonian/FlaskProjects/flasky/notes.py",
+		"/Users/alexsimonian/FlaskProjects/flasky/app/main/__init__.py",
+		"/Users/alexsimonian/FlaskProjects/flasky/data.sqlite",
+		"/Users/alexsimonian/Desktop/Bootstrapping/wolfchase/js/script.js",
+		"/Users/alexsimonian/Desktop/Bootstrapping/wolfchase/css/style.css",
+		"/Users/alexsimonian/FlaskProjects/book2-exercises/youtube.py",
+		"/Users/alexsimonian/FlaskProjects/book2-exercises/payload.py",
+		"/Users/alexsimonian/FlaskProjects/book2-exercises/cars.json",
+		"/Users/alexsimonian/FlaskProjects/book2-exercises/cars.xml",
+		"/Users/alexsimonian/FlaskProjects/book2-exercises/parser.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"FLASKY_ADMIN",
+			"ping",
+			"User",
+			"form",
+			"FLASKY",
+			"FLASKY_ADMIN",
+			"send_email",
+			"contact",
+			"form-group",
+			"text-center",
+			"container",
+			"contact",
+			"form-control",
+			"email",
+			"Info",
+			"css",
+			"DEBUG",
+			"contact",
+			"about",
+			"jpg",
+			"MINITWIT",
+			"poster",
+			"show_user_info",
+			"poster",
+			"db",
+			"tasks",
+			"flash_errors",
+			"main",
+			"create_all()",
+			"/register",
+			"json",
+			"date",
+			"id",
+			"Database",
+			"pictures",
+			"centerArea",
+			"orange",
+			"ready",
+			"start",
+			"firstquestion",
+			"#introBanner",
+			"getUserGuess",
+			"userGuess",
+			"secretNumber",
+			"guessHTML",
+			"trash",
+			"dashed",
+			"#heading",
+			"p",
+			".delete",
+			"add",
+			"556",
+			"hurricane",
+			"h2",
+			"popular-recipes",
+			"courses",
+			"header",
+			"li",
+			"a.current",
+			"a",
+			"current",
+			"image",
+			".content-footer",
+			"css",
+			"content",
+			"box-sizing",
+			"selection",
+			"questions",
+			"location",
+			"text-center",
+			"side-padding",
+			"Game",
+			"mainloop",
+			"id",
+			"tk",
+			"tkinter",
+			"tk",
+			"tkint",
+			"tk",
+			"tkinter",
+			"date",
+			"content",
+			"author",
+			"content",
+			"title",
+			"blog_id",
+			"author",
+			"a",
+			"rnd",
+			"isValidMove",
+			"newPlayer",
+			"showInstructions",
+			"isGameOver",
+			"printBoard",
+			"makeMove",
+			"enterPlayerMove",
+			"getNewBoard",
+			"SLOTS",
+			"re",
+			"word_with_e += 1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"A",
+			"is_valid_move",
+			"new_player",
+			"show_instructions",
+			"is_game_over",
+			"print_board",
+			"make_move",
+			"enter_player_move",
+			"get_new_board",
+			"CODE_PEGS"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "hello_world/views.py",
+					"settings":
+					{
+						"buffer_size": 190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								190,
+								190
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "hello_world/urls.py",
+					"settings":
+					{
+						"buffer_size": 122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "hello_world_project/urls.py",
+					"settings":
+					{
+						"buffer_size": 887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								887,
+								887
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 140.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true
+}
